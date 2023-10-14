@@ -1,0 +1,14 @@
+D:\GitHub\dio_bootcamp_wex_desenvolvimento_net_qa\modulo21\bin\Debug\net7.0\modulo21.exe
+D:\GitHub\dio_bootcamp_wex_desenvolvimento_net_qa\modulo21\bin\Debug\net7.0\modulo21.deps.json
+D:\GitHub\dio_bootcamp_wex_desenvolvimento_net_qa\modulo21\bin\Debug\net7.0\modulo21.runtimeconfig.json
+D:\GitHub\dio_bootcamp_wex_desenvolvimento_net_qa\modulo21\bin\Debug\net7.0\modulo21.dll
+D:\GitHub\dio_bootcamp_wex_desenvolvimento_net_qa\modulo21\bin\Debug\net7.0\modulo21.pdb
+D:\GitHub\dio_bootcamp_wex_desenvolvimento_net_qa\modulo21\obj\Debug\net7.0\modulo21.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\dio_bootcamp_wex_desenvolvimento_net_qa\modulo21\obj\Debug\net7.0\modulo21.AssemblyInfoInputs.cache
+D:\GitHub\dio_bootcamp_wex_desenvolvimento_net_qa\modulo21\obj\Debug\net7.0\modulo21.AssemblyInfo.cs
+D:\GitHub\dio_bootcamp_wex_desenvolvimento_net_qa\modulo21\obj\Debug\net7.0\modulo21.csproj.CoreCompileInputs.cache
+D:\GitHub\dio_bootcamp_wex_desenvolvimento_net_qa\modulo21\obj\Debug\net7.0\modulo21.dll
+D:\GitHub\dio_bootcamp_wex_desenvolvimento_net_qa\modulo21\obj\Debug\net7.0\refint\modulo21.dll
+D:\GitHub\dio_bootcamp_wex_desenvolvimento_net_qa\modulo21\obj\Debug\net7.0\modulo21.pdb
+D:\GitHub\dio_bootcamp_wex_desenvolvimento_net_qa\modulo21\obj\Debug\net7.0\modulo21.genruntimeconfig.cache
+D:\GitHub\dio_bootcamp_wex_desenvolvimento_net_qa\modulo21\obj\Debug\net7.0\ref\modulo21.dll

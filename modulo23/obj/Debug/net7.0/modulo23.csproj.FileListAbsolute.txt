@@ -1,0 +1,14 @@
+D:\GitHub\dio_bootcamp_wex_desenvolvimento_net_qa\modulo23\obj\Debug\net7.0\modulo23.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\dio_bootcamp_wex_desenvolvimento_net_qa\modulo23\obj\Debug\net7.0\modulo23.AssemblyInfoInputs.cache
+D:\GitHub\dio_bootcamp_wex_desenvolvimento_net_qa\modulo23\obj\Debug\net7.0\modulo23.AssemblyInfo.cs
+D:\GitHub\dio_bootcamp_wex_desenvolvimento_net_qa\modulo23\obj\Debug\net7.0\modulo23.csproj.CoreCompileInputs.cache
+D:\GitHub\dio_bootcamp_wex_desenvolvimento_net_qa\modulo23\bin\Debug\net7.0\modulo23.exe
+D:\GitHub\dio_bootcamp_wex_desenvolvimento_net_qa\modulo23\bin\Debug\net7.0\modulo23.deps.json
+D:\GitHub\dio_bootcamp_wex_desenvolvimento_net_qa\modulo23\bin\Debug\net7.0\modulo23.runtimeconfig.json
+D:\GitHub\dio_bootcamp_wex_desenvolvimento_net_qa\modulo23\bin\Debug\net7.0\modulo23.dll
+D:\GitHub\dio_bootcamp_wex_desenvolvimento_net_qa\modulo23\bin\Debug\net7.0\modulo23.pdb
+D:\GitHub\dio_bootcamp_wex_desenvolvimento_net_qa\modulo23\obj\Debug\net7.0\modulo23.dll
+D:\GitHub\dio_bootcamp_wex_desenvolvimento_net_qa\modulo23\obj\Debug\net7.0\refint\modulo23.dll
+D:\GitHub\dio_bootcamp_wex_desenvolvimento_net_qa\modulo23\obj\Debug\net7.0\modulo23.pdb
+D:\GitHub\dio_bootcamp_wex_desenvolvimento_net_qa\modulo23\obj\Debug\net7.0\modulo23.genruntimeconfig.cache
+D:\GitHub\dio_bootcamp_wex_desenvolvimento_net_qa\modulo23\obj\Debug\net7.0\ref\modulo23.dll
